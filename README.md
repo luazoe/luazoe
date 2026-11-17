@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Olá, Me chamo Fernanda Lua, tenho 16 anos e sou estudante do 1° período de Informática e desenvolvimento de sistemas!
+Meu objetivo, após me especializar na minha área é trabalhar como desenvolvedora de jogos digitais em C# e Phyton.
 <!--
 **luazoe/luazoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
